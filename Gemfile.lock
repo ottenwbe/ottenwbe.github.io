@@ -196,6 +196,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-gist
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-sitemap
   jemoji
 
