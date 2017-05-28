@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Arduino Development Environment
-categories: arduino, IoT
+categories: arduino
 comments: true
 ---
 
