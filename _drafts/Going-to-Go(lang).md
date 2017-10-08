@@ -12,7 +12,19 @@ Over the last couple of years I had the fortune (or misfortune) to implement var
 
 What struck me first was how fast I had my first small applications up and running. I was especially impressed how easy it was to write a concurrent application with goroutines and channels. 
 
-Of course, the C like Syntax helped in getting familiar with the language. But where I stumbled was the order of data type and parameter/variable name in function signatures/variable declarations. This is not a negative point, I agree with the reasoning given on the Go Blog https://blog.golang.org/gos-declaration-syntax that it improves the readability. Yet it shows the small hurdles in switching from C like languages. 
+Of course, the C like Syntax helped in getting familiar with the language. But where I stumbled was the order of data type and parameter/variable name in function signatures/variable declarations.
+
+Golang 
+
+    ```go
+    var num int
+    ```
+
+VS Java
+
+   int num
+
+ This is not a negative point, I agree with the reasoning given on the Go Blog https://blog.golang.org/gos-declaration-syntax that it improves the readability. Yet it shows the small hurdles in switching from C like languages. 
 
 ## Multiple return values ##
 
