@@ -2,7 +2,7 @@
 layout: single
 title: MTTR-over-MTBF
 categories: DevOps Infrastructure-as-Code
-comments: false
+comments: true
 ---
 
 Nowadays, web-shops can be accessed at any time of the day. Video streaming services like Netflix are accessible 24/7. A Uber can be called in the morning as well as in the night. This is only possible because such modern, web-based applications are highly available. 
@@ -15,6 +15,6 @@ What is the key to achieve this?
 
 * Make change a habbit
 
-* Every change has a
+* Every change is tested and executed in a pipeline
 
 TBD
